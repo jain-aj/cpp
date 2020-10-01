@@ -1,3 +1,11 @@
+// The All ▲lgorithms library for python
+//
+// https://allalgorithms.com/dynamic-programming/
+// https://github.com/allalgorithms/cpp
+//
+// Contributed by: Ajit Jain
+// Github: @jain-aj
+//
 #include <bits/stdc++.h>
 using namespace std;
 
